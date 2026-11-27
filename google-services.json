@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741304785570",
+    "project_id": "pam-push---sandoval-juan",
+    "storage_bucket": "pam-push---sandoval-juan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741304785570:android:21d8f6c51254ed4e9b95fb",
+        "android_client_info": {
+          "package_name": "pe.edu.pam.juansandoval.pushlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGb7OS3LFsqu1tGHgxENu9h5isvs7Bia8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
